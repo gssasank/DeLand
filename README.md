@@ -2,7 +2,7 @@
 
 SDL project for 2 credits
 
-#Team members
+# Team members
 - 
 -
 - 
