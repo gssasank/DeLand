@@ -4,6 +4,6 @@ SDL project for 2 credits
 
 # Team members
 - 
--
+- Jaisurya R S
 - 
 -
