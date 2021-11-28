@@ -4,17 +4,6 @@
 
 ---
 
-# Group Members
-
-| Name               | Roll Number |
-| ------------------ | ----------- |
-| Aryaman Singh Rana | 191010093   |
-| GS Sasank          | 191010152   |
-| Jaisurya R S       | 191010174   |
-| Shivang Madhwal    | 191010371   |
-
-
-
 # Table of Contents
 
 1. [Idea](#Idea)
