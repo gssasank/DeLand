@@ -1,6 +1,6 @@
 # **DeLand**
 
-**DeLand** or **Decentralized Land Management System** is a program developed for creating a decentralized system which holds all the land records/data present in the country. 
+**DeLand** or **Decentralized Land Auditing System** is a program developed for creating a decentralized system which holds all the land records/data present in the country. 
 
 ---
 
